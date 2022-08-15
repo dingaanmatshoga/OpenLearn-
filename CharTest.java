@@ -5,3 +5,4 @@ public class CharTest{
 		System.out.println(myChar);
 	}
 }
+// Test github
