@@ -6,3 +6,4 @@ public class Increment3 {
  	   System.out.println("After operation myInt = "+myInt); 		   
     }
 }
+
